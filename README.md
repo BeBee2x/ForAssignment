@@ -1,2 +1,0 @@
-# Jumpsearch
-for assignment
